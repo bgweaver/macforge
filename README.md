@@ -1,5 +1,5 @@
 # MACForge
-MACForge is a Python-based utility designed to help users view and modify MAC addresses for network interfaces on their machines. This tool supports macOS, Linux, and Windows, allowing users to easily manage their MAC addresses. It also includes features like searching for vendor prefixes, generating random MAC addresses, and identifying the vendor of a given MAC address using the macvendors.com API.
+MACForge is a Python-based utility designed to help users view and modify MAC addresses for network interfaces on their machines. This tool supports macOS and Linux, with only basic functionality for Windows right now, allowing users to easily manage their MAC addresses. It also includes features like searching for vendor prefixes, generating random MAC addresses, and identifying the vendor of a given MAC address using the macvendors.com API.
 
 ## Features
 View Current MAC Addresses: Displays a list of all active network interfaces and their MAC addresses.  
