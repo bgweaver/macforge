@@ -34,6 +34,6 @@ The program will prompt you to enter a command from the list of available option
 You can view the manual at any time by typing ?. The manual provides detailed information on each command, its functionality, and how to use the program effectively.
 
 ## Supported Operating Systems
-Windows: Limited functionality, mainly for viewing MAC addresses.
-macOS: Full functionality, including changing MAC addresses.
-Linux: Full functionality, including changing MAC addresses.
+Windows: Limited functionality, mainly for viewing MAC addresses.  
+macOS: Full functionality, including changing MAC addresses.  
+Linux: Full functionality, including changing MAC addresses.  
